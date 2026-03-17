@@ -1,72 +1,47 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
+<h3 align="center">🚀 Full Stack Developer (MERN) | BCA Graduate from MIET Kumaon Haldwani</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🚀 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 I’m currently working on  
-  **Real-time Chat Application**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning  
-  **API Development, System Design, Pipelining**
-
-- 👯 I’m looking to collaborate on  
-  **Full Stack (MERN) Projects**
-
-- 🤝 I’m looking for help with  
-  **Scalable Backend & System Design**
-
-- 💬 Ask me about  
-  **React, Vue, GSAP, Node.js**
-
-- 📫 How to reach me  
-  **saaurabhsingh13@gmail.com**
-
-- ⚡ Fun fact  
-  **I think I am funny 😅**
+- 🔭 Working on **Real-time Chat Application**
+- 🌱 Learning **System Design, API Optimization, Pipelining**
+- 💬 Ask me about **React, Vue, GSAP, Node.js**
+- ⚡ Fun fact: **I think I am funny 😅**
 
 ---
 
-### 🛠️ Tech Stack (MERN + More)
+### 🚀 Tech Stack
 
-#### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,nestjs,mongodb,mysql,js,ts,tailwind,redux,docker,aws,git,linux" />
 </p>
 
-#### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,redux" />
-</p>
+---
 
-#### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
+### 🧠 Featured Project
 
-#### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+🚀 **Real-Time Chat App**  
+- 💬 Live messaging with Socket.io  
+- 🔐 Authentication system  
+- ⚡ Fast & scalable backend  
 
-#### 🧪 Testing & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=jest,postman" />
-</p>
-
-#### ⚡ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,linux" />
-</p>
+project link soon - 
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -74,29 +49,35 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh72487-hub&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/saurabh-singh7" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/saurabh-singh7">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 <a href="mailto:saaurabhsingh13@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophy
+### 🔥 Quote
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh72487-hub&theme=tokyonight&row=1&column=6" />
-</p>
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
