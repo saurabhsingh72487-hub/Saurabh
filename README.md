@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN) from India</h3>
 
 ---
 
@@ -21,7 +21,7 @@
   **React, Vue, GSAP, Node.js**
 
 - 📫 How to reach me  
-  **example@gmail.com**
+  **saaurabhsingh13@gmail.com**
 
 - ⚡ Fun fact  
   **I think I am funny 😅**
