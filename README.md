@@ -1,67 +1,103 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | BCA Graduate from MIET Kumaon Haldwani 🇮🇳</h3>
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h3 align="center">A passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- ✨ Creating bugs since **2023**
-- 📚 Currently learning **Advanced Full Stack & System Design**
-- 🎯 Goal: **Become a Software Engineer & build impactful products**
-- ⚡ Fun fact: **I fix bugs faster than I create them (sometimes 😅)**
+- 🔭 I’m currently working on  
+  **Real-time Chat Application**
+
+- 🌱 I’m currently learning  
+  **API Development, System Design, Pipelining**
+
+- 👯 I’m looking to collaborate on  
+  **Full Stack (MERN) Projects**
+
+- 🤝 I’m looking for help with  
+  **Scalable Backend & System Design**
+
+- 💬 Ask me about  
+  **React, Vue, GSAP, Node.js**
+
+- 📫 How to reach me  
+  **example@gmail.com**
+
+- ⚡ Fun fact  
+  **I think I am funny 😅**
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack (MERN + More)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40"/>
-</div>
+#### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+#### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,redux" />
+</p>
+
+#### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+#### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+#### 🧪 Testing & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=jest,postman" />
+</p>
+
+#### ⚡ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Most Used Languages
+### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/saurabh-singh7 " target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+<a href="https://www.linkedin.com/in/saurabh-singh7" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 <a href="mailto:saaurabhsingh13@gmail.com">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
 </a>
 </p>
 
 ---
 
-⭐ From [Saurabh Singh](https://github.com/YOUR_USERNAME)
+### 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh72487-hub&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+⭐ From [Saurabh Singh](https://github.com/saurabhsingh72487-hub)
