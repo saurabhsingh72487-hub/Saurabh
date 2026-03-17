@@ -46,14 +46,16 @@ project link soon -
 
 ---
 
-### 🧠 Top Languages
+### 🧠 Most Used Languages
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
----
-
+<p align="center">
+  🍃 MongoDB | ⚡ Express | ⚛️ React | 🚀 Node.js
+</p>
 ### 🏆 Achievements
 
 <p align="center">
