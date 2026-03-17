@@ -13,7 +13,7 @@
 
 - 🔭 Working on **Real-time Chat Application**
 - 🌱 Learning **System Design, API Optimization, Pipelining**
-- 💬 Ask me about **React, Vue, GSAP, Node.js**
+- 💬 Ask me about **React, GSAP, Node.js**
 - ⚡ Fun fact: **I think I am funny 😅**
 
 ---
