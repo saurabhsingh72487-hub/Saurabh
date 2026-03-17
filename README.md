@@ -12,9 +12,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 Working on **Real-time Chat Application**
-- 🌱 Learning **System Design, API Optimization, Pipelining**
-- 💬 Ask me about **React, GSAP, Node.js**
-- ⚡ Fun fact: **I think I am funny 😅**
+- 🌱 Learning **Advance library of react that helps to make code more better**
+- 💬 Ask me about **mern stack**
+
 
 ---
 
