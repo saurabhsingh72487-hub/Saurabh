@@ -21,7 +21,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,nestjs,mongodb,mysql,js,ts,tailwind,redux,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,aws,git" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ project link soon -
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh72487-hub&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ project link soon -
 
 ### 🔥 Quote
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 ---
 
