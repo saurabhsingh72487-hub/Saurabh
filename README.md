@@ -61,7 +61,11 @@ project link soon -
 <p align="center">
   <img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
+# My Project
 
+[![Open FCG](https://img.shields.io/badge/FCG-Open-blue?style=for-the-badge)](YOUR-FCG-LINK)
+
+GitHub Profile: https://github.com/saurabhsinghbohra7
 ---
 
 ### 🌐 Connect With Me
