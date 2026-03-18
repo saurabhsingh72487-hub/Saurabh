@@ -63,7 +63,7 @@ project link soon -
 </p>
 # My Project
 
-[![Open FCG](https://img.shields.io/badge/FCG-Open-blue?style=for-the-badge)](YOUR-FCG-LINK)
+[![Open FreeCodeCamp](https://img.shields.io/badge/FCG-Open-blue?style=for-the-badge)](YOUR-FCG-LINK)
 
 GitHub Profile: https://github.com/saurabhsinghbohra7
 ---
