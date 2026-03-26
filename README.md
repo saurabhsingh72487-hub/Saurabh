@@ -83,7 +83,7 @@ GitHub Profile: https://github.com/saurabhsinghbohra7
 
 ### 🔥 Quote
 
-> > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> >"If i start i stopped until its done"
 
 ---
 
