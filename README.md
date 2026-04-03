@@ -33,9 +33,7 @@
 - 🔐 Authentication system  
 - ⚡ Fast & scalable backend  
 
-project link soon - 
 
----
 
 ### 📊 GitHub Stats
 
@@ -83,7 +81,7 @@ GitHub Profile: https://github.com/saurabhsinghbohra7
 
 ### 🔥 Quote
 
-> >"If i start i stopped until its done"
+> >"Build Product not Project"
 
 ---
 
