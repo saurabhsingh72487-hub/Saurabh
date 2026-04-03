@@ -9,31 +9,12 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 About Me
-
-- 🔭 Working on **Real-time Chat Application**
-- 🌱 Learning **Advance library of react that helps to make code more better**
-- 💬 Ask me about **mern stack**
-
-
----
 
 ### 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,aws,git" />
 </p>
-
----
-
-### 🧠 Featured Project
-
-🚀 **Real-Time Chat App**  
-- 💬 Live messaging with Socket.io  
-- 🔐 Authentication system  
-- ⚡ Fast & scalable backend  
-
-
 
 ### 📊 GitHub Stats
 
@@ -48,23 +29,15 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript" />
 </p>
 
 <p align="center">
   🍃 MongoDB | ⚡ Express | ⚛️ React | 🚀 Node.js
 </p>
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
 # My Project
 
-[![Open FreeCodeCamp](https://img.shields.io/badge/FCG-Open-blue?style=for-the-badge)](YOUR-FCG-LINK)
-
-GitHub Profile: https://github.com/saurabhsinghbohra7
----
+https://www.freecodecamp.org/saurabhsinghbohra7
 
 ### 🌐 Connect With Me
 
@@ -76,13 +49,6 @@ GitHub Profile: https://github.com/saurabhsinghbohra7
   <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 </p>
-
----
-
 ### 🔥 Quote
 
 > >"Build Product not Project"
-
----
-
-⭐ From [Saurabh Singh](https://github.com/saurabhsingh72487-hub)
