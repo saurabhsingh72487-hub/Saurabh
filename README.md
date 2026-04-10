@@ -14,7 +14,9 @@
 
 ## 📌 About Me
 Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, and enjoy working across both frontend and backend to create complete solutions. I focus on writing clean, efficient code and continuously improving my skills by learning new technologies and best practices.
+## 🏆 GitHub Achievements
 
+![trophy](https://github-profile-trophy.vercel.app/?username=saurabhsingh72487-hub&theme=radical&no-frame=true&row=1&column=6)
 
 **Currently Learning:**
 - Next.js 14 App Router
