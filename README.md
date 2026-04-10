@@ -24,16 +24,7 @@ Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, 
 - TypeScript Advanced Patterns
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/saurabhsingh72487-hub">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurabhsingh72487-hub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="saurabhsingh72487-hub's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=saurabhsingh72487-hub&theme=github_dark&hide_border=true&cache_seconds=86400" alt="saurabhsingh72487-hub's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=github_dark&radius=10" alt="saurabhsingh72487-hub's Activity Graph" />
-</p
+
 
 ## 🛠️ Languages & Tools
 
