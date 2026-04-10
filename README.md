@@ -1,54 +1,65 @@
-<h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | BCA Graduate from MIET Kumaon Haldwani</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ea5e9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh+Singh;Full+Stack+MERN+Developer;MERN+Stack+%7C+Next.js+%7C+AWS;Turning+ideas+into+reality+with+code!;Let's+build+something+amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,aws,git" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/saurabhsingh72487-hub">
+    <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/BCA%20Graduate-MIET%20Kumaon%20Haldwani-brightgreen" />
+  <img src="https://img.shields.io/badge/Full%20Stack-MERN-blueviolet" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-🚀-teal" />
+</div>
 
 ---
 
-### 🧠 Most Used Languages
+## 🚀 About Me
+
+I'm a **passionate Full Stack Developer** specializing in **MERN Stack** with hands-on experience in building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+
+**🎯 Currently working on:** Next.js projects & AWS deployments  
+**💻 Always learning:** TypeScript, GraphQL, Docker  
+**🤝 Open to:** Freelance opportunities, Open Source, Collaborations
+
+## 📊 Activity Graph (Yearly)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
+</div>
+
+### Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,postman" />
+</div>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  🍃 MongoDB | ⚡ Express | ⚛️ React | 🚀 Node.js
-</p>
-# My Project
+<div align="center">
+  <a href="https://www.linkedin.com/in/saurabh-singh7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:saaurabhsingh13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.freecodecamp.org/saurabhsinghbohra7">
+    <img src="https://img.shields.io/badge/freeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+</div>
 
-https://www.freecodecamp.org/saurabhsinghbohra7
-
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/saurabh-singh7">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-<a href="mailto:saaurabhsingh13@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-</a>
-</p>
-### 🔥 Quote
-
-> >"Build Product not Project"
