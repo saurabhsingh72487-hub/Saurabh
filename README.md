@@ -1,79 +1,76 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ea5e9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Saurabh+Singh;Full+Stack+MERN+Developer;MERN+Stack+%7C+Next.js+%7C+AWS;Turning+ideas+into+reality+with+code!;Let's+build+something+amazing!+%F0%9F%A4%9D" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Saurabh%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Junior%20software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hire%20for%20Attitude%2C%20Skill%20can%20be%20taught" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub">
+    <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="saurabhsingh72487-hub's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+**Currently Learning:**
+- Next.js 14 App Router
+**Looking to Collaborate On:**
+- SaaS Startup Projects
+**Looking for Help With:**
+- TypeScript Advanced Patterns
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
   <a href="https://github.com/saurabhsingh72487-hub">
-    <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile%20views&color=0e75b6&style=flat" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saurabhsingh72487-hub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="saurabhsingh72487-hub's GitHub Stats" />
   </a>
-  <img src="https://img.shields.io/badge/BCA%20Graduate-MIET%20Kumaon%20Haldwani-brightgreen" />
-  <img src="https://img.shields.io/badge/Full%20Stack-MERN-blueviolet" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-🚀-teal" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **passionate Full Stack Developer** specializing in **MERN Stack** with hands-on experience in building scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
-
-**🎯 Currently working on:** Next.js projects & AWS deployments  
-**💻 Always learning:** TypeScript, GraphQL, Docker  
-**🤝 Open to:** Freelance opportunities, Open Source, Collaborations
-
-## 📊 Activity Graph (Yearly)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=react-dark&hide_border=true" />
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</div>
-
-### Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
-</div>
-
-### Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,postman" />
-</div>
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  
-  <!-- Streak Stats (LONGEST STREAK YAHAN HAI!) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=react&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=react&hide_border=true" width="48%" />
-  
+  <img src="https://streak-stats.demolab.com/?user=saurabhsingh72487-hub&theme=github_dark&hide_border=true&cache_seconds=86400" alt="saurabhsingh72487-hub's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=github_dark&radius=10" alt="saurabhsingh72487-hub's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
-## 🌐 Connect With Me
+## 🛠️ Languages & Tools
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saurabh-singh7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/saurabhsingh72487-hub">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
-  &nbsp; &nbsp;
-  <a href="mailto:saaurabhsingh13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://www.freecodecamp.org/saurabhsinghbohra7">
-    <img src="https://img.shields.io/badge/freeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  </a>
-</div>
+</p>
 
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/saurabh-singh7" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/919528717190" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:saaurabhsingh13@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
