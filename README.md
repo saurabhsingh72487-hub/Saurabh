@@ -59,9 +59,7 @@ I'm a **passionate Full Stack Developer** specializing in **MERN Stack** with ha
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=react&hide_border=true" width="48%" />
   
-  <!-- Activity Graph (Already hai) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=react-dark&hide_border=true" width="48%" />
-</div>
+
 
 ## 🌐 Connect With Me
 
