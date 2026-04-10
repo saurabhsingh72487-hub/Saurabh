@@ -45,7 +45,23 @@ I'm a **passionate Full Stack Developer** specializing in **MERN Stack** with ha
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,postman" />
 </div>
+## 📈 GitHub Stats
 
+<div align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  
+  <!-- Streak Stats (LONGEST STREAK YAHAN HAI!) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhsingh72487-hub&theme=react&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh72487-hub&layout=compact&theme=react&hide_border=true" width="48%" />
+  
+  <!-- Activity Graph (Already hai) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=react-dark&hide_border=true" width="48%" />
+</div>
 
 ## 🌐 Connect With Me
 
