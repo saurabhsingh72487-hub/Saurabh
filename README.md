@@ -30,11 +30,7 @@
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsingh72487-hub&theme=github_dark&radius=10" alt="saurabhsingh72487-hub's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
+</p
 
 ## 🛠️ Languages & Tools
 
