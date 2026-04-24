@@ -17,9 +17,18 @@ Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, 
 
 
 
-**Looking to Collaborate On:**
-- SaaS Startup Projects
+## FreeCodeCamp Certifications 🚀
 
+## 🏆 FreeCodeCamp Certifications
+
+<div align="center">
+
+**Frontend & Backend Development mein 1000+ hours practice!**  
+👉 [View my FreeCodeCamp Profile & Certificates](https://www.freecodecamp.org/saurabhsinghbohra7)
+
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-1000%2B%20Hours-006400?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/saurabhsinghbohra7)
+
+</div>
 
 - ## 🏆 GitHub Achievements
 
