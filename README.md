@@ -33,13 +33,10 @@ Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, 
 
 </div>
 
-- ## 🏆 GitHub Achievements
+## 🔥 Current Streak & Stats
+[![saurabhsingh72487-hub's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhsingh72487-hub&theme=radical)](https://git.io/streak-stats)
 
-- 🏹 Quickdraw
-- ⚡ YOLO
-- 🦈 Pull Shark
-- 🤝 Pair Extraordinaire
-
+[![saurabhsingh72487-hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=radical&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Languages & Tools
 
