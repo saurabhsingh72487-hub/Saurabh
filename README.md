@@ -11,7 +11,8 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
+## 🌐 Live Demo
+👉 https://my-portfolio-1-3s7k.onrender.com/
 ## 📌 About Me:
 Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, and enjoy working across both frontend and backend to create complete solutions. I focus on writing clean, efficient code and continuously improving my skills by learning new technologies and best practices.
 
