@@ -14,7 +14,7 @@
 ## 🌐 Live Demo
 👉 https://my-portfolio-1-3s7k.onrender.com/
 ## 📌 About Me:
-Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, and enjoy working across both frontend and backend to create complete solutions. I focus on writing clean, efficient code and continuously improving my skills by learning new technologies and best practices.
+Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, and enjoy working across both frontend and backend to create complete solutions. I focus on writing clean, efficient code and continuously improving my skills by learning new technologies and best practices. 
 
 ### Microsoft Learn
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20%26%20Cloud-00BCD4?style=for-the-badge&logo=microsoft&logoColor=white ](https://learn.microsoft.com/en-us/users/saurabhsingh-0494)
