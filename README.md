@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Saurabh%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Junior%20software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hire%20for%20Attitude%2C%20Skill%20can%20be%20taught" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=The%20only%20true%20wisdom%20is%20in%20knowing%20you%20know%20nothing." alt="Typing introduction"/>
 </p>
 
 <p align="center">
@@ -11,17 +11,18 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
 ## 🌐 Live Demo
 👉 https://my-portfolio-1-3s7k.onrender.com/
+
 ## 📌 About Me:
 Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, and enjoy working across both frontend and backend to create complete solutions. I focus on writing clean, efficient code and continuously improving my skills by learning new technologies and best practices. 
 
 ### Microsoft Learn
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20%26%20Cloud-00BCD4?style=for-the-badge&logo=microsoft&logoColor=white ](https://learn.microsoft.com/en-us/users/saurabhsingh-0494)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-AI%20%26%20Cloud-00BCD4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/saurabhsingh-0494)
 **Basic AI & Cloud Certifications**
 
 </div>
-
 
 ## 🏆 FreeCodeCamp Certifications
 
@@ -39,6 +40,7 @@ Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saurabhsingh72487-hub&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=radical&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
