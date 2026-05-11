@@ -36,7 +36,6 @@ Hi 👋, I'm a MERN Stack Developer passionate about building modern, scalable, 
 </div>
 
 ## 🔥 Current Streak & Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=saurabhsingh72487-hub&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhsingh72487-hub&show_icons=true&theme=radical&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
