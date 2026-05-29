@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile+Views&color=00FFFF&style=flat-square"/>
 </p>
