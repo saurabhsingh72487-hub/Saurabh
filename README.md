@@ -31,7 +31,6 @@ Hi, I'm **Saurabh Singh**
 🔗 https://my-portfolio-1-3s7k.onrender.com/
 
 ---
-
 ## 🏆 Certifications
 
 ### Microsoft Learn
