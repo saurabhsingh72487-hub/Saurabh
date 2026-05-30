@@ -25,7 +25,6 @@ Hi, I'm **Saurabh Singh**
 - Cloud & Deployment
 
 ---
-
 ## 🌐 Portfolio
 
 🔗 https://my-portfolio-1-3s7k.onrender.com/
