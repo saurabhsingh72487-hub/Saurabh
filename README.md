@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 * 🚀 MERN Stack Developer
