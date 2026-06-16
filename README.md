@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=saurabhsingh72487-hub&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
